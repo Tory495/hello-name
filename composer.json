@@ -1,0 +1,10 @@
+{
+    "name": "ilya-plotnikov/hello-name",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "IlyaPlotnikov\\HelloName\\": "src/"
+        }
+    },
+    "require": {}
+}
