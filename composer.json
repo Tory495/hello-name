@@ -1,4 +1,5 @@
 {
+    "description": "A small php package for testing",
     "name": "ilya-plotnikov/hello-name",
     "type": "library",
     "autoload": {
