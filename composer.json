@@ -7,5 +7,7 @@
             "IlyaPlotnikov\\HelloName\\": "src/"
         }
     },
-    "require": {}
+    "require": {
+        "php": ">=8.2.0"
+    }
 }
