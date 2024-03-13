@@ -1,7 +1,9 @@
 # hello-name
 PHP Package
 
-# PHP Version 8.2
+# Requirments
+
+PHP Version >= 7.0.0
 
 # Installation
 ```bash
